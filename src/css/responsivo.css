@@ -32,9 +32,9 @@
 }
 
 @media (max-width: 768px) {
-  .home .informacoes .lista-jogos{
-  gap: 30px;
-}
+  .home .informacoes .lista-jogos {
+    gap: 30px;
+  }
 
   .compre-ja {
     padding: 30px;
@@ -94,8 +94,14 @@
 
 @media (max-width: 351px) {
   .btn-plataforma {
-    width: 70%;
     font-size: 15px;
     padding: 20px 10px 20px 10px;
+  }
+}
+
+@media (max-width: 286px) {
+  .btn-plataforma {
+    font-size: 10px;
+    padding: 5px 20px;
   }
 }
