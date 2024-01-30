@@ -70,7 +70,7 @@ body {
 	max-width: 150px;
 }
 
-.home .informacoes .lista-de-jogos {
+.home .informacoes .lista-jogos {
 	display: flex;
 	gap: 32px;
 }
